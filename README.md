@@ -25,9 +25,20 @@ You'll be using two datasets in this project:
 
     - 5 landmark locations, 40 binary attributes annotations per image.
 
+## Software and Libraries
+    This project uses the following software and Python libraries:
+
+    - [Python](https://www.python.org/download/releases)
+    - [NumPy](http://www.numpy.org/)
+    - [matplotlib](http://matplotlib.org/)
+    - [tensorflow](https://www.tensorflow.org)
+
+    You will also need to have software installed to run and execute a [Jupyter Notebook](http://ipython.org/notebook.html).
+
+    If you do not have Python installed yet, it is highly recommended that you install the [Anaconda](http://continuum.io/downloads) distribution of Python, which already has the above packages and more included.
 
 ### Project Instructions
-1. Clone the repository and navigate to the downloaded folder.
+Clone the repository and navigate to the downloaded folder.
   ```
   git clone https://github.com/adityasaxena26/DCGAN-face-generation.git
   cd DCGAN-face-generation
